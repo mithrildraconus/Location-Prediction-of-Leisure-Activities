@@ -1,0 +1,453 @@
+Activity,Year,Locality,Participated in the last 12 months,Weekly Participation (multiple),Weekly Participation (once),Monthly Participation (multiple),Monthly Participation (once)
+Adult education courses,2010,Local,7.29,1.37,0.87,0.33,0.58
+Adult education courses,2011,Local,7.45,1.46,0.84,0.39,0.50
+Adult education courses,2012,Local,6.12,1.20,0.72,0.29,0.35
+Adult education courses,2013,Local,6.20,1.26,0.67,0.30,0.46
+Adult education courses,2014,Local,7.70,1.81,0.78,0.38,0.64
+Adult education courses,2015,Local,7.61,1.85,0.87,0.33,0.53
+Adult education courses,2016,Local,7.55,1.50,0.76,0.46,0.55
+Adult education courses,2017,Local,8.06,1.70,0.90,0.38,0.68
+Adult education courses,2018,Local,7.35,1.61,0.75,0.50,0.66
+Aquarium attendance,2014,Remote,5.05,0.04,0.05,0.08,0.21
+Aquarium attendance,2015,Remote,5.92,0.12,0.02,0.09,0.14
+Aquarium attendance,2016,Remote,4.94,0.09,0.03,0.02,0.09
+Aquarium attendance,2017,Remote,5.19,0.04,0.07,0.09,0.05
+Aquarium attendance,2018,Remote,5.15,0.06,0.05,0.08,0.14
+Attend a circus,2012,Remote,2.94,0.00,0.06,0.00,0.12
+Attend a circus,2016,Remote,3.24,0.01,0.06,0.01,0.04
+Attend a circus,2017,Remote,3.20,0.01,0.06,0.02,0.06
+Attend a circus,2018,Remote,2.75,0.03,0.04,0.00,0.05
+Attend a state or county fair,2018,Remote,12.44,0.09,0.27,0.16,0.27
+Attend art galleries or shows,2010,Remote,9.20,0.00,0.09,0.39,1.00
+Attend art galleries or shows,2011,Remote,7.95,0.00,0.05,0.32,0.77
+Attend art galleries or shows,2012,Remote,6.96,0.07,0.06,0.36,0.63
+Attend art galleries or shows,2013,Remote,7.47,0.05,0.00,0.30,0.61
+Attend art galleries or shows,2014,Remote,6.99,0.06,0.06,0.33,0.68
+Attend art galleries or shows,2015,Remote,7.50,0.04,0.07,0.26,0.76
+Attend art galleries or shows,2016,Remote,7.80,0.09,0.07,0.39,0.81
+Attend art galleries or shows,2017,Remote,7.63,0.09,0.07,0.42,0.70
+Attend art galleries or shows,2018,Remote,7.17,0.04,0.08,0.22,0.87
+Attend auto shows ,2010,Remote,8.48,0.14,0.15,0.24,0.32
+Attend auto shows ,2011,Remote,7.89,0.10,0.09,0.18,0.36
+Attend auto shows ,2012,Remote,8.50,0.09,0.09,0.24,0.49
+Attend auto shows ,2013,Remote,8.37,0.09,0.10,0.14,0.44
+Attend auto shows ,2014,Remote,5.67,0.08,0.10,0.17,0.35
+Attend auto shows ,2015,Remote,5.81,0.06,0.03,0.18,0.31
+Attend auto shows ,2016,Remote,5.97,0.10,0.08,0.21,0.25
+Attend auto shows ,2017,Remote,6.08,0.06,0.10,0.15,0.28
+Attend auto shows ,2018,Remote,5.69,0.05,0.06,0.12,0.45
+Attend classical music/opera performances,2010,Remote,4.26,0.00,0.00,0.18,0.39
+Attend classical music/opera performances,2011,Remote,3.77,0.00,0.00,0.15,0.39
+Attend classical music/opera performances,2012,Remote,3.44,0.00,0.00,0.13,0.29
+Attend classical music/opera performances,2013,Remote,3.87,0.00,0.00,0.15,0.35
+Attend classical music/opera performances,2014,Remote,3.88,0.06,0.02,0.14,0.42
+Attend classical music/opera performances,2015,Remote,3.41,0.02,0.04,0.09,0.31
+Attend classical music/opera performances,2016,Remote,3.44,0.04,0.02,0.11,0.37
+Attend classical music/opera performances,2017,Remote,3.85,0.02,0.05,0.12,0.34
+Attend classical music/opera performances,2018,Remote,3.85,0.04,0.10,0.16,0.38
+Attend country music performances ,2010,Remote,4.94,0.00,0.05,0.10,0.20
+Attend country music performances ,2011,Remote,5.20,0.05,0.10,0.15,0.19
+Attend country music performances ,2012,Remote,5.52,0.00,0.00,0.07,0.21
+Attend country music performances ,2013,Remote,5.12,0.00,0.06,0.00,0.22
+Attend country music performances ,2014,Remote,6.14,0.07,0.04,0.13,0.30
+Attend country music performances ,2015,Remote,6.03,0.08,0.06,0.14,0.20
+Attend country music performances ,2016,Remote,6.38,0.02,0.07,0.11,0.21
+Attend country music performances ,2017,Remote,6.20,0.07,0.04,0.12,0.22
+Attend country music performances ,2018,Remote,6.21,0.04,0.03,0.09,0.19
+Attend dance performances ,2010,Remote,4.39,0.05,0.07,0.15,0.18
+Attend dance performances ,2011,Remote,3.93,0.00,0.00,0.13,0.30
+Attend dance performances ,2012,Remote,4.11,0.05,0.00,0.07,0.17
+Attend dance performances ,2013,Remote,4.05,0.08,0.06,0.19,0.23
+Attend dance performances ,2014,Remote,3.93,0.03,0.08,0.15,0.22
+Attend dance performances ,2015,Remote,4.13,0.04,0.01,0.15,0.29
+Attend dance performances ,2016,Remote,3.95,0.02,0.10,0.11,0.20
+Attend dance performances ,2017,Remote,4.54,0.05,0.16,0.09,0.22
+Attend dance performances ,2018,Remote,4.20,0.03,0.01,0.13,0.15
+Attend horse races,2010,Remote,2.92,0.07,0.08,0.07,0.17
+Attend horse races,2011,Remote,2.74,0.08,0.00,0.15,0.12
+Attend horse races,2012,Remote,2.69,0.07,0.10,0.11,0.11
+Attend horse races,2013,Remote,2.59,0.00,0.13,0.12,0.11
+Attend horse races,2014,Remote,2.45,0.06,0.06,0.06,0.16
+Attend horse races,2015,Remote,2.55,0.08,0.04,0.04,0.18
+Attend horse races,2016,Remote,2.40,0.06,0.06,0.10,0.07
+Attend horse races,2017,Remote,2.31,0.04,0.04,0.04,0.08
+Attend horse races,2018,Remote,2.16,0.03,0.02,0.08,0.03
+"Attend other music performances (not country, rock, or classical)",2010,Remote,11.63,0.06,0.15,0.49,0.93
+"Attend other music performances (not country, rock, or classical)",2011,Remote,10.49,0.11,0.17,0.40,0.96
+"Attend other music performances (not country, rock, or classical)",2012,Remote,9.95,0.06,0.13,0.32,0.78
+"Attend other music performances (not country, rock, or classical)",2013,Remote,10.33,0.11,0.11,0.43,0.81
+"Attend other music performances (not country, rock, or classical)",2014,Remote,10.06,0.12,0.16,0.42,1.02
+"Attend other music performances (not country, rock, or classical)",2015,Remote,10.51,0.17,0.16,0.47,0.82
+"Attend other music performances (not country, rock, or classical)",2016,Remote,10.90,0.07,0.25,0.35,1.00
+"Attend other music performances (not country, rock, or classical)",2017,Remote,11.20,0.08,0.22,0.44,0.90
+"Attend other music performances (not country, rock, or classical)",2018,Remote,11.29,0.05,0.25,0.47,0.92
+Attend rock music performances ,2010,Remote,11.04,0.08,0.08,0.32,0.50
+Attend rock music performances ,2011,Remote,9.56,0.09,0.07,0.17,0.63
+Attend rock music performances ,2012,Remote,9.56,0.11,0.09,0.39,0.68
+Attend rock music performances ,2013,Remote,9.90,0.07,0.12,0.27,0.56
+Attend rock music performances ,2014,Remote,8.53,0.06,0.04,0.29,0.58
+Attend rock music performances ,2015,Remote,9.04,0.06,0.08,0.26,0.46
+Attend rock music performances ,2016,Remote,9.02,0.04,0.12,0.25,0.59
+Attend rock music performances ,2017,Remote,9.46,0.07,0.12,0.26,0.67
+Attend rock music performances ,2018,Remote,9.25,0.04,0.07,0.16,0.56
+Backgammon ,2010,Local,1.86,0.19,0.16,0.18,0.21
+Backgammon ,2011,Local,1.88,0.12,0.06,0.20,0.18
+Backgammon ,2012,Local,1.75,0.19,0.09,0.24,0.12
+Backgammon ,2013,Local,2.11,0.21,0.10,0.20,0.18
+Baking ,2010,Local,25.30,4.56,3.72,5.47,4.09
+Baking ,2011,Local,25.06,4.55,3.43,5.33,4.25
+Baking ,2012,Local,23.21,3.76,3.16,5.22,3.86
+Baking ,2013,Local,20.88,3.40,2.76,4.48,3.29
+Baking ,2014,Local,23.83,3.58,3.77,4.87,3.85
+Baking ,2015,Local,25.41,3.78,3.27,5.89,4.14
+Baking ,2016,Local,22.68,3.13,3.26,4.88,3.35
+Baking ,2017,Local,22.30,3.29,3.19,4.58,3.65
+Baking ,2018,Local,21.50,2.90,2.67,4.48,3.45
+Barbecuing ,2010,Local,34.68,5.48,5.67,8.27,4.59
+Barbecuing ,2011,Local,33.88,5.02,5.79,7.91,4.93
+Barbecuing ,2012,Local,30.03,4.52,4.54,7.02,4.23
+Barbecuing ,2013,Local,28.14,3.94,4.38,6.42,3.52
+Barbecuing ,2014,Local,28.89,3.70,4.77,6.26,4.04
+Barbecuing ,2015,Local,29.85,4.36,4.82,6.20,4.63
+Barbecuing ,2016,Local,28.87,3.91,4.28,6.29,3.65
+Barbecuing ,2017,Local,28.71,3.15,4.11,6.69,3.97
+Barbecuing ,2018,Local,25.79,2.87,3.64,5.35,3.83
+Billiards/pool ,2010,Local,8.53,0.43,0.63,0.93,0.90
+Billiards/pool ,2011,Local,8.21,0.60,0.70,0.91,0.87
+Billiards/pool ,2012,Local,7.33,0.49,0.57,0.58,0.92
+Billiards/pool ,2013,Local,7.67,0.76,0.42,0.77,0.91
+Billiards/pool ,2014,Local,7.41,0.57,0.38,0.71,0.77
+Billiards/pool ,2015,Local,7.46,0.55,0.54,0.56,0.66
+Billiards/pool ,2016,Local,6.38,0.40,0.42,0.65,0.54
+Billiards/pool ,2017,Local,6.66,0.32,0.41,0.66,0.67
+Billiards/pool ,2018,Local,6.05,0.19,0.37,0.30,0.79
+Bird watching ,2010,Local,6.05,2.67,0.59,0.51,0.38
+Bird watching ,2011,Local,5.46,2.52,0.38,0.37,0.36
+Bird watching ,2012,Local,4.65,1.86,0.49,0.35,0.34
+Bird watching ,2013,Local,4.06,1.78,0.37,0.25,0.20
+Bird watching ,2014,Local,4.44,1.93,0.29,0.27,0.26
+Bird watching ,2015,Local,4.44,1.74,0.28,0.24,0.30
+Bird watching ,2016,Local,4.28,1.78,0.31,0.33,0.29
+Bird watching ,2017,Local,4.30,1.73,0.37,0.20,0.20
+Bird watching ,2018,Local,4.15,1.69,0.32,0.23,0.33
+Board games ,2010,Local,16.66,1.27,1.37,2.88,3.40
+Board games ,2011,Local,15.45,1.05,1.52,2.67,3.20
+Board games ,2012,Local,12.77,0.80,1.05,1.81,2.44
+Board games ,2013,Local,12.50,0.69,1.31,1.87,2.31
+Board games ,2014,Local,13.68,0.87,1.30,2.64,2.36
+Board games ,2015,Local,14.08,0.98,1.43,2.19,2.53
+Board games ,2016,Local,14.59,0.74,1.36,2.28,3.03
+Board games ,2017,Local,15.71,1.01,1.56,2.59,2.71
+Board games ,2018,Local,15.58,0.83,1.67,2.70,2.91
+Book clubs,2010,Local,2.52,0.12,0.10,0.18,1.20
+Book clubs,2011,Local,2.49,0.00,0.20,0.23,0.83
+Book clubs,2012,Local,2.61,0.08,0.09,0.22,1.05
+Book clubs,2013,Local,2.57,0.16,0.15,0.21,1.00
+Book clubs,2014,Local,2.86,0.09,0.20,0.16,1.05
+Book clubs,2015,Local,2.74,0.05,0.12,0.22,0.97
+Book clubs,2016,Local,2.55,0.07,0.09,0.14,0.96
+Book clubs,2017,Local,3.11,0.13,0.15,0.27,1.27
+Book clubs,2018,Local,2.74,0.10,0.14,0.22,1.00
+Chess,2010,Local,3.02,0.24,0.23,0.36,0.25
+Chess,2011,Local,3.22,0.40,0.14,0.35,0.29
+Chess,2012,Local,2.77,0.35,0.18,0.24,0.25
+Chess,2013,Local,3.34,0.33,0.27,0.36,0.38
+Chess,2014,Local,3.03,0.23,0.18,0.30,0.38
+Chess,2015,Local,3.19,0.20,0.29,0.20,0.44
+Chess,2016,Local,3.46,0.43,0.20,0.34,0.40
+Chess,2017,Local,3.48,0.38,0.21,0.28,0.35
+Chess,2018,Local,3.44,0.28,0.21,0.42,0.29
+Concerts on radio,2010,Local,2.82,0.57,0.33,0.24,0.25
+Concerts on radio,2011,Local,3.11,0.43,0.29,0.29,0.27
+Concerts on radio,2012,Local,2.59,0.44,0.22,0.25,0.24
+Concerts on radio,2013,Local,2.53,0.37,0.32,0.19,0.25
+Concerts on radio,2014,Local,2.42,0.34,0.24,0.25,0.17
+Concerts on radio,2015,Local,3.03,0.48,0.25,0.25,0.22
+Concerts on radio,2016,Local,2.48,0.45,0.12,0.15,0.25
+Concerts on radio,2017,Local,2.71,0.34,0.27,0.19,0.25
+Concerts on radio,2018,Local,2.19,0.28,0.24,0.18,0.13
+Cooking for fun ,2010,Local,22.03,8.40,3.29,2.98,1.94
+Cooking for fun ,2011,Local,21.70,7.88,3.33,3.24,1.92
+Cooking for fun ,2012,Local,22.23,8.03,3.48,2.91,2.05
+Cooking for fun ,2013,Local,23.01,8.95,3.72,2.87,1.80
+Cooking for fun ,2014,Local,22.89,8.68,3.44,3.25,1.52
+Cooking for fun ,2015,Local,24.45,9.18,3.88,3.02,1.82
+Cooking for fun ,2016,Local,20.18,7.17,3.24,2.40,1.48
+Cooking for fun ,2017,Local,20.17,6.78,3.21,2.54,1.52
+Cooking for fun ,2018,Local,18.68,6.88,2.86,2.50,1.59
+Crossword puzzles ,2010,Local,13.15,5.64,1.37,1.23,1.17
+Crossword puzzles ,2011,Local,11.47,4.91,1.02,1.30,0.70
+Crossword puzzles ,2012,Local,11.76,4.62,1.47,1.13,0.75
+Crossword puzzles ,2013,Local,10.34,4.28,1.32,1.02,0.69
+Crossword puzzles ,2014,Local,10.28,4.19,1.23,0.99,0.69
+Crossword puzzles ,2015,Local,9.58,3.58,1.16,0.97,0.60
+Crossword puzzles ,2016,Local,9.68,3.66,1.07,0.98,0.59
+Crossword puzzles ,2017,Local,9.73,3.83,0.98,0.97,0.58
+Crossword puzzles ,2018,Local,9.01,3.58,0.81,0.91,0.62
+Dance/go dancing ,2010,Remote,9.20,0.72,0.95,1.20,1.30
+Dance/go dancing ,2011,Remote,9.04,0.75,0.86,1.17,1.25
+Dance/go dancing ,2012,Remote,8.24,0.70,0.63,0.96,0.92
+Dance/go dancing ,2013,Remote,7.87,0.84,0.73,0.87,0.97
+Dance/go dancing ,2014,Remote,7.71,0.95,0.46,0.78,1.14
+Dance/go dancing ,2015,Remote,7.76,0.67,0.77,0.81,0.83
+Dance/go dancing ,2016,Remote,7.51,0.65,0.68,0.70,0.70
+Dance/go dancing ,2017,Remote,7.20,0.67,0.48,0.78,0.80
+Dance/go dancing ,2018,Remote,7.33,0.83,0.57,0.68,0.75
+Dining out ,2010,Remote,49.31,8.84,11.04,11.68,6.88
+Dining out ,2011,Remote,46.76,7.63,10.56,12.08,5.88
+Dining out ,2012,Remote,45.17,8.05,10.10,10.65,6.02
+Dining out ,2013,Remote,44.76,7.19,9.72,10.97,5.99
+Dining out ,2014,Remote,45.33,8.36,9.82,11.14,5.84
+Dining out ,2015,Remote,46.42,7.86,9.73,11.90,6.10
+Dining out ,2016,Remote,52.78,9.47,11.46,12.68,6.64
+Dining out ,2017,Remote,52.12,8.73,11.46,12.72,6.12
+Dining out ,2018,Remote,50.54,9.41,10.80,11.93,6.57
+Entertain friends or relatives at home ,2010,Local,38.34,3.06,4.01,8.14,8.60
+Entertain friends or relatives at home ,2011,Local,37.08,3.23,4.06,7.82,8.08
+Entertain friends or relatives at home ,2012,Local,35.08,2.87,4.09,6.97,7.73
+Entertain friends or relatives at home ,2013,Local,35.64,2.99,4.53,7.43,7.21
+Entertain friends or relatives at home ,2014,Local,36.16,2.95,4.16,7.44,7.85
+Entertain friends or relatives at home ,2015,Local,37.36,3.29,4.22,7.39,7.91
+Entertain friends or relatives at home ,2016,Local,32.47,2.74,3.66,6.42,6.50
+Entertain friends or relatives at home ,2017,Local,32.97,2.43,3.43,6.63,6.68
+Entertain friends or relatives at home ,2018,Local,30.47,2.42,3.73,5.73,6.43
+Fantasy sports league,2010,Local,3.93,1.25,0.68,0.16,0.14
+Fantasy sports league,2011,Local,4.61,1.36,0.96,0.28,0.15
+Fantasy sports league,2012,Local,3.31,0.92,0.62,0.18,0.15
+Fantasy sports league,2013,Local,4.34,1.26,0.75,0.25,0.25
+Fantasy sports league,2014,Local,4.33,1.25,0.74,0.24,0.28
+Fantasy sports league,2015,Local,4.88,1.38,1.13,0.32,0.25
+Fantasy sports league,2016,Local,4.44,1.08,0.69,0.42,0.29
+Fantasy sports league,2017,Local,4.53,1.21,0.82,0.25,0.19
+Fantasy sports league,2018,Local,4.50,0.94,0.86,0.15,0.27
+Film/produce videos,2018,Local,1.46,0.20,0.19,0.12,0.11
+Fly a drone,2018,Local,2.64,0.12,0.10,0.27,0.18
+Furniture refinishing ,2010,Local,2.76,0.09,0.00,0.16,0.18
+Furniture refinishing ,2011,Local,2.76,0.06,0.05,0.14,0.21
+Furniture refinishing ,2012,Local,2.57,0.06,0.09,0.11,0.18
+Furniture refinishing ,2013,Local,3.27,0.08,0.10,0.19,0.42
+Furniture refinishing ,2014,Local,3.41,0.09,0.07,0.16,0.34
+Furniture refinishing ,2015,Local,3.22,0.10,0.07,0.17,0.35
+Furniture refinishing ,2016,Local,3.44,0.14,0.05,0.14,0.36
+Furniture refinishing ,2017,Local,4.19,0.11,0.17,0.19,0.40
+Furniture refinishing ,2018,Local,3.57,0.11,0.09,0.11,0.33
+Genealogy,2018,Local,3.91,0.43,0.25,0.29,0.45
+Go to bars/night clubs ,2010,Remote,19.08,1.37,2.12,3.26,2.82
+Go to bars/night clubs ,2011,Remote,18.22,1.33,1.93,3.08,2.80
+Go to bars/night clubs ,2012,Remote,17.04,1.16,1.74,2.98,2.50
+Go to bars/night clubs ,2013,Remote,16.05,1.11,1.47,2.72,2.39
+Go to bars/night clubs ,2014,Remote,17.10,1.18,1.60,2.74,2.90
+Go to bars/night clubs ,2015,Remote,16.54,1.10,1.72,2.38,3.03
+Go to bars/night clubs ,2016,Remote,17.67,1.19,1.67,2.71,2.75
+Go to bars/night clubs ,2017,Remote,17.21,1.10,1.72,2.74,2.68
+Go to bars/night clubs ,2018,Remote,16.63,0.93,1.40,2.68,2.53
+Go to beach ,2010,Remote,25.72,1.45,0.88,2.14,2.38
+Go to beach ,2011,Remote,24.34,1.23,0.80,2.11,2.01
+Go to beach ,2012,Remote,23.75,1.11,0.86,2.06,2.08
+Go to beach ,2013,Remote,24.72,1.26,1.08,1.99,2.28
+Go to beach ,2014,Remote,25.82,1.01,0.94,2.35,2.58
+Go to beach ,2015,Remote,25.76,1.11,0.90,1.93,2.47
+Go to beach ,2016,Remote,28.94,1.11,0.96,2.16,2.83
+Go to beach ,2017,Remote,29.61,1.16,0.99,2.23,2.50
+Go to beach ,2018,Remote,27.80,1.21,1.02,1.95,2.60
+Go to live theater ,2010,Remote,13.39,0.15,0.11,0.39,1.46
+Go to live theater ,2011,Remote,12.19,0.12,0.15,0.40,1.22
+Go to live theater ,2012,Remote,11.60,0.07,0.10,0.55,1.22
+Go to live theater ,2013,Remote,12.91,0.10,0.16,0.47,1.30
+Go to live theater ,2014,Remote,13.02,0.17,0.24,0.63,1.46
+Go to live theater ,2015,Remote,13.35,0.15,0.16,0.50,1.55
+Go to live theater ,2016,Remote,10.67,0.09,0.07,0.35,0.97
+Go to live theater ,2017,Remote,11.11,0.18,0.14,0.36,1.41
+Go to live theater ,2018,Remote,11.33,0.11,0.20,0.49,1.18
+Go to museums ,2010,Remote,14.45,0.05,0.09,0.51,1.45
+Go to museums ,2011,Remote,14.04,0.09,0.09,0.41,1.27
+Go to museums ,2012,Remote,12.78,0.11,0.10,0.40,1.23
+Go to museums ,2013,Remote,12.13,0.11,0.09,0.34,1.13
+Go to museums ,2014,Remote,12.22,0.04,0.15,0.35,1.06
+Go to museums ,2015,Remote,12.86,0.09,0.15,0.34,1.38
+Go to museums ,2016,Remote,12.38,0.11,0.11,0.41,1.27
+Go to museums ,2017,Remote,13.81,0.08,0.21,0.44,1.40
+Go to museums ,2018,Remote,14.44,0.16,0.22,0.48,1.57
+Home decoration and furnishing,2010,Local,9.99,0.39,0.43,0.82,1.83
+Home decoration and furnishing,2011,Local,8.93,0.48,0.28,0.97,1.27
+Home decoration and furnishing,2012,Local,8.72,0.33,0.51,0.71,1.16
+Home decoration and furnishing,2013,Local,9.10,0.31,0.41,0.87,1.59
+Home decoration and furnishing,2014,Local,9.24,0.49,0.39,0.85,1.67
+Home decoration and furnishing,2015,Local,9.57,0.55,0.48,0.94,1.52
+Home decoration and furnishing,2016,Local,10.22,0.55,0.43,1.06,1.48
+Home decoration and furnishing,2017,Local,10.48,0.41,0.40,0.96,1.71
+Home decoration and furnishing,2018,Local,9.52,0.57,0.45,0.87,1.71
+Karaoke,2010,Remote,3.59,0.20,0.18,0.29,0.40
+Karaoke,2011,Remote,3.77,0.08,0.16,0.30,0.55
+Karaoke,2012,Remote,3.17,0.08,0.14,0.32,0.32
+Karaoke,2013,Remote,3.57,0.18,0.12,0.20,0.35
+Karaoke,2014,Remote,3.34,0.18,0.13,0.20,0.36
+Karaoke,2015,Remote,3.79,0.11,0.19,0.26,0.26
+Karaoke,2016,Remote,3.94,0.08,0.11,0.19,0.46
+Karaoke,2017,Remote,3.50,0.15,0.19,0.21,0.18
+Karaoke,2018,Remote,3.78,0.18,0.28,0.25,0.22
+"Painting, drawing ",2010,Local,6.05,1.03,0.56,0.71,0.71
+"Painting, drawing ",2011,Local,6.20,0.98,0.45,0.75,0.71
+"Painting, drawing ",2012,Local,5.25,0.85,0.49,0.64,0.61
+"Painting, drawing ",2013,Local,6.43,1.17,0.63,0.77,0.82
+"Painting, drawing ",2014,Local,6.02,1.06,0.66,0.64,0.50
+"Painting, drawing ",2015,Local,6.86,1.17,0.68,0.71,0.89
+"Painting, drawing ",2016,Local,7.23,1.47,0.71,0.92,0.68
+"Painting, drawing ",2017,Local,7.84,1.45,0.67,0.76,0.98
+"Painting, drawing ",2018,Local,7.00,1.16,0.77,0.64,0.89
+PC/computer games (play offline with software),2010,Local,8.32,3.84,1.02,0.89,0.57
+PC/computer games (play offline with software),2011,Local,7.79,3.67,0.78,0.70,0.51
+PC/computer games (play offline with software),2012,Local,6.77,3.18,0.52,0.69,0.43
+PC/computer games (play offline with software),2013,Local,6.66,3.19,0.71,0.58,0.37
+PC/computer games (play offline with software),2014,Local,6.58,3.12,0.69,0.58,0.25
+PC/computer games (play offline with software),2015,Local,5.98,2.96,0.68,0.43,0.28
+PC/computer games (play offline with software),2016,Local,6.81,3.35,0.49,0.65,0.37
+PC/computer games (play offline with software),2017,Local,6.97,3.31,0.54,0.58,0.29
+PC/computer games (play offline with software),2018,Local,6.93,3.68,0.51,0.41,0.25
+PC/computer games (play online with software),2010,Local,7.26,3.24,0.89,0.59,0.36
+PC/computer games (play online with software),2011,Local,7.06,3.51,0.62,0.58,0.23
+PC/computer games (play online with software),2012,Local,6.76,3.14,0.60,0.45,0.24
+PC/computer games (play online with software),2013,Local,6.86,3.49,0.54,0.44,0.35
+PC/computer games (play online with software),2014,Local,7.30,3.72,0.61,0.42,0.26
+PC/computer games (play online with software),2015,Local,7.33,3.86,0.81,0.39,0.23
+PC/computer games (play online without software),2010,Local,10.72,5.65,1.21,0.94,0.51
+PC/computer games (play online without software),2011,Local,10.10,5.32,1.04,0.83,0.43
+PC/computer games (play online without software),2012,Local,8.95,4.82,1.00,0.57,0.33
+PC/computer games (play online without software),2013,Local,9.11,5.11,0.88,0.66,0.24
+PC/computer games (play online without software),2014,Local,9.46,5.45,0.78,0.60,0.23
+PC/computer games (play online without software),2015,Local,8.59,5.13,0.63,0.50,0.28
+PC/computer games (play online),2018,Local,11.28,6.83,0.80,0.71,0.32
+Photo Album/Scrap book,2010,Local,6.70,0.54,0.33,0.86,1.02
+Photo Album/Scrap book,2011,Local,6.13,0.38,0.39,0.64,1.04
+Photo Album/Scrap book,2012,Local,5.46,0.31,0.28,0.68,0.74
+Photo album/scrap book,2013,Local,5.75,0.38,0.27,0.50,0.88
+Photo album/scrap book,2014,Local,5.20,0.28,0.24,0.47,0.84
+Photo album/scrap book,2015,Local,5.02,0.23,0.28,0.48,0.68
+Photo album/scrap book,2016,Local,4.19,0.20,0.18,0.33,0.57
+Photo album/scrap book,2017,Local,4.25,0.29,0.16,0.47,0.41
+Photo album/scrap book,2018,Local,4.07,0.29,0.35,0.37,0.45
+Photography ,2010,Local,11.47,1.91,1.45,2.34,1.54
+Photography ,2011,Local,10.37,1.77,1.07,1.86,1.48
+Photography ,2012,Local,9.68,1.70,1.12,1.64,1.57
+Photography ,2013,Local,10.64,2.07,1.09,1.97,1.44
+Photography ,2014,Local,9.81,1.97,1.01,1.60,1.35
+Photography ,2015,Local,10.10,2.14,1.34,1.69,1.13
+Photography ,2016,Local,10.36,2.36,1.08,1.52,1.22
+Photography ,2017,Local,9.62,2.48,1.17,1.30,1.02
+Photography ,2018,Local,8.39,2.07,1.26,1.25,0.95
+Picnic ,2010,Remote,11.54,0.12,0.26,0.73,1.66
+Picnic ,2011,Remote,11.19,0.14,0.25,0.67,1.46
+Picnic ,2012,Remote,10.26,0.14,0.26,0.77,1.55
+Picnic ,2013,Remote,11.07,0.25,0.29,0.85,1.23
+Picnic ,2014,Remote,10.42,0.22,0.33,0.59,1.22
+Picnic ,2015,Remote,10.93,0.18,0.29,0.64,1.38
+Picnic ,2016,Remote,7.83,0.17,0.29,0.48,0.97
+Picnic ,2017,Remote,8.18,0.26,0.23,0.47,1.24
+Picnic ,2018,Remote,8.45,0.20,0.20,0.51,0.90
+Play bingo ,2010,Remote,4.50,0.33,0.48,0.36,0.59
+Play bingo ,2011,Remote,4.15,0.28,0.41,0.33,0.46
+Play bingo ,2012,Remote,3.89,0.33,0.37,0.27,0.19
+Play bingo ,2013,Remote,4.50,0.29,0.37,0.23,0.37
+Play bingo ,2014,Remote,3.81,0.28,0.24,0.27,0.46
+Play bingo ,2015,Remote,3.98,0.37,0.33,0.19,0.30
+Play bingo ,2016,Remote,4.28,0.37,0.33,0.23,0.41
+Play bingo ,2017,Remote,4.15,0.41,0.19,0.26,0.33
+Play bingo ,2018,Remote,4.47,0.39,0.40,0.25,0.26
+Play cards ,2010,Local,20.25,2.49,2.18,2.81,3.32
+Play cards ,2011,Local,18.55,2.05,1.97,2.96,2.83
+Play cards ,2012,Local,16.38,1.90,1.63,2.22,2.35
+Play cards ,2013,Local,15.06,1.74,1.53,2.10,2.26
+Play cards ,2014,Local,15.33,1.79,1.69,2.12,2.25
+Play cards ,2015,Local,15.32,1.66,1.57,1.94,2.65
+Play cards ,2016,Local,15.81,1.46,1.50,2.03,2.39
+Play cards ,2017,Local,16.89,1.57,1.42,2.41,2.57
+Play cards ,2018,Local,15.96,1.58,1.54,2.21,2.42
+Play musical instrument,2013,Local,6.60,2.27,0.69,0.68,0.48
+Play musical instrument,2014,Local,6.56,2.32,0.70,0.58,0.54
+Play musical instrument,2015,Local,6.52,2.34,0.65,0.65,0.41
+Play musical instrument,2016,Local,6.86,2.25,0.76,0.76,0.52
+Play musical instrument,2017,Local,8.07,2.61,1.00,0.73,0.73
+Play musical instrument,2018,Local,6.69,2.44,0.83,0.56,0.55
+Play musical instrument ,2010,Local,7.93,3.26,0.92,0.86,0.53
+Play musical instrument ,2011,Local,6.60,2.38,0.66,0.82,0.50
+Play musical instrument ,2012,Local,6.56,2.34,0.83,0.51,0.44
+Reading books ,2010,Local,37.94,20.82,3.64,3.29,2.77
+Reading books ,2011,Local,37.20,20.66,3.34,3.10,2.46
+Reading books ,2012,Local,34.65,19.32,2.80,2.83,2.19
+Reading books ,2013,Local,34.44,18.75,3.13,2.73,2.13
+Reading books ,2014,Local,33.93,18.64,2.91,2.81,2.34
+Reading books ,2015,Local,34.20,18.46,3.02,2.66,2.11
+Reading books ,2016,Local,33.89,17.71,3.15,2.98,2.33
+Reading books ,2017,Local,32.28,16.79,2.90,2.78,2.10
+Reading books ,2018,Local,31.05,16.53,2.89,2.66,2.05
+Reading comic books,2010,Local,2.44,0.51,0.28,0.39,0.23
+Reading comic books,2011,Local,2.22,0.47,0.15,0.22,0.27
+Reading comic books,2012,Local,2.49,0.47,0.21,0.28,0.20
+Reading comic books,2013,Local,2.53,0.57,0.18,0.24,0.17
+Reading comic books,2014,Local,2.83,0.59,0.25,0.28,0.26
+Reading comic books,2015,Local,2.67,0.58,0.25,0.26,0.20
+Reading comic books,2016,Local,2.71,0.65,0.28,0.24,0.27
+Reading comic books,2017,Local,2.89,0.70,0.29,0.24,0.26
+Reading comic books,2018,Local,2.91,0.79,0.26,0.21,0.32
+Sudoku puzzles,2010,Local,11.63,4.50,1.10,1.38,1.09
+Sudoku puzzles,2011,Local,11.05,3.94,1.28,1.32,1.16
+Sudoku puzzles,2012,Local,10.64,3.92,1.04,1.34,0.87
+Sudoku puzzles,2013,Local,9.47,3.36,1.18,1.11,1.02
+Sudoku puzzles,2014,Local,9.51,3.11,1.11,0.90,0.83
+Sudoku puzzles,2015,Local,8.41,3.18,0.78,0.83,0.88
+Sudoku puzzles,2016,Local,7.64,2.67,0.94,0.79,0.54
+Sudoku puzzles,2017,Local,7.69,2.89,0.75,0.94,0.66
+Sudoku puzzles,2018,Local,8.30,2.91,0.80,0.79,0.72
+Tailgating,2016,Remote,4.30,0.09,0.22,0.28,0.42
+Tailgating,2017,Remote,4.36,0.10,0.07,0.24,0.31
+Tailgating,2018,Remote,3.83,0.08,0.04,0.11,0.25
+Trivia games ,2010,Local,5.20,0.83,0.58,0.61,0.65
+Trivia games ,2011,Local,5.10,1.01,0.46,0.54,0.71
+Trivia games ,2012,Local,4.74,0.98,0.40,0.63,0.48
+Trivia games ,2013,Local,5.11,0.89,0.53,0.77,0.44
+Trivia games ,2014,Local,4.93,0.99,0.47,0.43,0.54
+Trivia games ,2015,Local,5.99,1.57,0.69,0.58,0.58
+Trivia games ,2016,Local,6.77,1.58,0.87,0.71,0.57
+Trivia games ,2017,Local,6.40,1.41,0.58,0.68,0.62
+Trivia games ,2018,Local,6.06,1.49,0.64,0.55,0.63
+Video/electronic games (console),2012,Local,10.79,3.84,1.24,1.29,0.82
+Video/electronic games (console),2013,Local,10.36,3.99,1.23,1.18,0.70
+Video/electronic games (console),2014,Local,10.03,3.92,1.20,1.02,0.65
+Video/electronic games (console),2015,Local,9.93,3.91,1.12,1.08,0.74
+Video/electronic games (console),2016,Local,8.86,3.65,0.95,0.97,0.78
+Video/electronic games (console),2017,Local,8.52,3.11,0.76,1.02,0.70
+Video/electronic games (console),2018,Local,8.90,3.91,0.85,0.83,0.38
+Video/electronic games (portable),2012,Local,4.44,1.60,0.38,0.42,0.25
+Video/electronic games (portable),2013,Local,4.45,2.08,0.41,0.29,0.24
+Video/electronic games (portable),2014,Local,4.56,2.00,0.28,0.36,0.20
+Video/electronic games (portable),2015,Local,4.67,2.05,0.45,0.28,0.20
+Video/electronic games (portable),2016,Local,5.23,2.31,0.57,0.32,0.36
+Video/electronic games (portable),2017,Local,4.36,1.86,0.23,0.30,0.19
+Video/electronic games (portable),2018,Local,4.21,2.00,0.25,0.29,0.22
+Woodworking ,2010,Local,4.47,0.75,0.42,0.71,0.63
+Woodworking ,2011,Local,4.34,0.72,0.34,0.51,0.55
+Woodworking ,2012,Local,4.19,0.62,0.47,0.40,0.46
+Woodworking ,2013,Local,4.60,0.88,0.45,0.56,0.39
+Woodworking ,2014,Local,3.93,0.58,0.36,0.49,0.49
+Woodworking ,2015,Local,4.48,0.77,0.44,0.42,0.61
+Woodworking ,2016,Local,4.30,0.61,0.41,0.39,0.51
+Woodworking ,2017,Local,5.13,0.74,0.49,0.59,0.67
+Woodworking ,2018,Local,4.43,0.70,0.33,0.61,0.68
+Word games ,2010,Local,9.71,3.41,1.19,1.23,0.83
+Word games ,2011,Local,10.01,4.04,1.25,1.19,0.58
+Word games ,2012,Local,10.85,4.77,1.08,1.07,0.85
+Word games ,2013,Local,10.76,4.46,1.15,1.15,0.72
+Word games ,2014,Local,9.82,4.06,0.82,1.07,0.67
+Word games ,2015,Local,9.75,4.39,1.04,0.67,0.70
+Word games ,2016,Local,10.20,4.02,1.02,1.04,0.58
+Word games ,2017,Local,10.21,4.19,1.05,0.93,0.62
+Word games ,2018,Local,9.54,4.41,0.96,0.74,0.51
+Zoo attendance ,2010,Remote,12.34,0.08,0.10,0.28,0.93
+Zoo attendance ,2011,Remote,12.32,0.00,0.06,0.22,0.69
+Zoo attendance ,2012,Remote,11.65,0.07,0.10,0.18,0.67
+Zoo attendance ,2013,Remote,11.32,0.08,0.10,0.16,0.62
+Zoo attendance ,2014,Remote,11.50,0.06,0.07,0.27,0.53
+Zoo attendance ,2015,Remote,12.57,0.12,0.08,0.24,0.82
+Zoo attendance ,2016,Remote,12.40,0.02,0.07,0.34,0.78
+Zoo attendance ,2017,Remote,12.45,0.05,0.08,0.24,0.56
+Zoo attendance ,2018,Remote,11.37,0.09,0.04,0.22,0.74
